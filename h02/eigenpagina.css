@@ -1,0 +1,167 @@
+/* eigenpagina.css */
+body {
+    background-image: url("images/asus-rog-background-3.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+
+}
+
+
+h1 {
+    color: #BE1C1C;
+    border: 2px solid darkred;
+    font-family: "Century Gothic", sans-serif;
+    font-size: 35px;
+    margin: 25px 50px 75px 100px;
+    background-color: #2F0606;
+    text-align: center;
+    text-shadow: 1px 2px black;
+
+}
+p {
+    text-shadow: 1px 1px black;
+    color: #BD0101;
+    text-align: center;
+    font-family: "Century Gothic", sans-serif;
+    font-size: 20px;
+}
+
+.p2 {
+    text-shadow: 1px 1px black;
+    color: #BD0101;
+    text-align: left;
+    font-family: "Century Gothic", sans-serif;
+    font-size: 20px;
+    margin-left: 60px;
+}
+
+h2 {
+    text-shadow: 1px 1px black;
+    color: grey;
+    text-align: left;
+    font-family: "Century Gothic", sans-serif;
+    font-size: 15px;
+
+}
+
+h3 {
+    text-shadow: 1px 1px black;
+    color: grey;
+    text-align: center;
+    font-family: "Century Gothic", sans-serif;
+    font-size: 30px;
+
+}
+
+div {
+    border: 1px solid black;
+    padding: 40px;
+    width: 400px;
+    height: 1100px;
+    text-align: justify;
+    background-color: #4b4948;
+    font-family: "Century Gothic", sans-serif;
+    text-shadow: 1px 1px black;
+    color: #BD0101;
+    margin-left: 60px;
+
+}
+
+.div2 {
+    border: 1px solid black;
+    padding: 40px;
+    width: 680px;
+    height: 680px;
+    text-align: justify;
+    background-color: #4b4948;
+    font-family: "Century Gothic", sans-serif;
+    text-shadow: 1px 1px black;
+    color: #BD0101;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+.homebutton {
+    float: left;
+    height: 50px;
+    margin-left: 20px;
+}
+
+.strix {
+
+    border: 2px solid darkred;
+    width: 365px;
+    height: 250px;
+    margin-left: 3px;
+
+}
+
+.tweakerssite {
+    float: left;
+    height: 70px;
+
+}
+
+.asussite {
+    float: left;
+    height: 55px;
+    margin-left: 20px;
+    margin-top: -30px;
+}
+
+.toprtx {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -65px;
+    border: 2px solid #4b4948;
+    height: 500px;
+
+}
+
+.infortx {
+    margin-top: -800px;
+    float: right;
+    border: 2px solid darkred;
+    height: 300px;
+    margin-right: 60px;
+
+}
+
+.overclocking {
+    margin-top: -1150px;
+    float: right;
+    border: 2px solid darkred;
+    height: 300px;
+    margin-right: 60px;
+
+
+}
+
+.gputweak {
+    margin-top: -450px;
+    float: right;
+    border: 2px solid darkred;
+    height: 300px;
+    margin-right: 60px;
+
+}
+
+.nukopen {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50px;
+
+}
+
+
+footer {
+
+    padding: 20px;
+}
